@@ -6,6 +6,7 @@ When I am not coding or building up my skills as a programmer, I am exploring my
 <!--
 **devuri/devuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+Follow me [@urielsedge](https://twitter.com/urielsedge) on Twitter and Checkout out my [blog](http://urielwilson.com/)
 
 #### 🔭 I’m currently working on ...
 * [Brisko Brisko WordPress Theme](https://wordpress.org/themes/brisko/).
