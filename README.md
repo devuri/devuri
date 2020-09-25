@@ -26,4 +26,4 @@ Follow me [@urielsedge](https://twitter.com/urielsedge) on Twitter and Checkout 
 * [urielwilson.com](http://urielwilson.com/)
 
 #### ⚡ Fun fact:
-* I Am Secretly A Ninja 
+* I am secretly a ninja 
