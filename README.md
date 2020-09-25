@@ -1,5 +1,5 @@
 #### Hi there
-Im Uriel, But you can call me Uri,I use opens source tools and technologies to create great user experiences. I specialize in WordPress services including custom plugins and theme development. I am the lead developer at Zip Technologies Ltd. 
+Im Uriel, I use opens source tools and technologies to create great user experiences. I specialize in WordPress services including custom plugins and theme development. I am the lead developer at Zip Technologies Ltd. 
 
 
 When I am not coding or building up my skills as a programmer, I am exploring my interests in music, exercise, and photography. 
