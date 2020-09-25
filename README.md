@@ -8,7 +8,7 @@ When I am not coding or building up my skills as a programmer, I am exploring my
 -->
 Follow me [@urielsedge](https://twitter.com/urielsedge) on Twitter and Checkout out my [blog](http://urielwilson.com/)
 
-#### 🔭 I’m currently working on ...
+#### 🔭 I’m currently working on:
 * [Brisko Brisko WordPress Theme](https://wordpress.org/themes/brisko/).
 * [My Members Only – Membership for WordPress](https://wordpress.org/plugins/iceyi-members-only/).
 * [White Label Custom Login for WordPress](https://wordpress.org/plugins/wp-white-label-login/).
@@ -20,10 +20,10 @@ Follow me [@urielsedge](https://twitter.com/urielsedge) on Twitter and Checkout 
 
 <!-- #### 💬 Ask me about ... -->
 
-#### 📫 How to reach me: ...
+#### 📫 How to reach me:
 * [LinkedIn](https://jm.linkedin.com/in/urielwilson)
 * [Twitter](https://twitter.com/urielsedge)
 * [urielwilson.com](http://urielwilson.com/)
 
-#### ⚡ Fun fact: ...
+#### ⚡ Fun fact:
 * I Am Secretly A Ninja 
