@@ -2,7 +2,7 @@
 Im Uriel, I use open source tools and technologies to create great user experiences. I specialize in WordPress services, including custom plugins and theme development. I am the lead developer at Zip Technologies Ltd. 
 
 
-When I am not coding or building up my skills, I am making music or exploring my interests in calisthenics, and photography. 
+When I am not coding or building up my skills, I am making music or exploring my interests in music production, and photography. 
 <!--
 **devuri/devuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
