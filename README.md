@@ -8,7 +8,6 @@ Follow me [@urielsedge](https://twitter.com/urielsedge) on Twitter and Checkout 
 #### 🔭 I’m currently working on:
 * [Brisko Brisko WordPress Theme](https://wordpress.org/themes/brisko/).
 * [My Members Only – Membership for WordPress](https://wordpress.org/plugins/iceyi-members-only/).
-* [White Label Custom Login for WordPress](https://wordpress.org/plugins/wp-white-label-login/).
 * [Sim Social Feed – WordPress plugin](https://wordpress.org/plugins/sim-social-feed/).
 * [Python WordPress Backup](https://github.com/devuri/python-wpbackup).
 * [Ziplaw: Research tool for Legal Professionals](http://ziplaw.com/).
