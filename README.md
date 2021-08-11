@@ -3,7 +3,7 @@ I'm a software engineer, I use open source tools and technologies to create grea
 <!--
 **devuri/devuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Follow me [@urielsedge](https://twitter.com/urielsedge) on Twitter and Checkout out my [blog](http://urielwilson.com/)
+I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [blog](http://urielwilson.com/)
 
 #### 🔭 I’m currently working on:
 * [Brisko Brisko WordPress Theme](https://wordpress.org/themes/brisko/).
