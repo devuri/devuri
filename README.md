@@ -1,6 +1,5 @@
 #### Hi there
-Im Uriel, I use open source tools and technologies to create great user experiences. 
-I specialize in WordPress services, including custom plugins and theme development. 
+I'm a software engineer, I use open source tools and technologies to create great user experiences. 
 I am the lead developer at Zip Technologies Ltd. 
 
 
