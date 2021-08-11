@@ -1,9 +1,5 @@
 #### Hi there
 I'm a software engineer, I use open source tools and technologies to create great user experiences. 
-I am the lead developer at Zip Technologies Ltd. 
-
-
-When I am not coding or building up my skills, I am making music or exploring my interests in music production or photography. 
 <!--
 **devuri/devuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
