@@ -1,5 +1,5 @@
 #### Hi there
-I'm a software engineer, I use open source tools and technologies to create great user experiences. 
+
 <!--
 **devuri/devuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
