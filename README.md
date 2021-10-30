@@ -21,5 +21,12 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 * [Twitter](https://twitter.com/urielsedge)
 * [urielwilson.com](http://urielwilson.com/)
 
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 #### ⚡ Fun fact:
 * I am secretly a ninja 
+
+
