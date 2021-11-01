@@ -37,6 +37,11 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How to quickly rename multiple files by replacing a specific string in the filename](https://urielwilson.com/how-to-quickly-rename-multiple-files-by-replacing-a-specific-string-in-the-filename/)
+- [How to Delete Files and Directories with the Linux Command Line](https://urielwilson.com/how-to-delete-files-and-directories-with-the-linux-command-line/)
+- [How to verify your Ubuntu download, SHA256 checksum](https://urielwilson.com/how-to-verify-your-ubuntu-download-sha256-checksum/)
+- [Quick Tip: JavaScript Ternary Operator and PHP Ternary Operator](https://urielwilson.com/quick-tip-javascript-ternary-operator-and-php-ternary-operator/)
+- [How to Retrieve a list of database table names for WordPress Database](https://urielwilson.com/how-to-retrieve-a-list-of-database-table-names-for-wordpress-database/)
 <!-- BLOG-POST-LIST:END -->
 
 
