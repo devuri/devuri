@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How to Install and Configure Apache, PHP, and MySQL on Ubuntu using Python](https://urielwilson.com/how-to-install-and-configure-apache-php-and-mysql-on-ubuntu-using-python/)
 - [Step-by-Step Guide: How to Install Ubuntu Server on Your Machine](https://urielwilson.com/step-by-step-guide-how-to-install-ubuntu-server-on-your-machine/)
 - [A Comprehensive Guide to Managing Disk Partitions on Linux](https://urielwilson.com/a-comprehensive-guide-to-managing-disk-partitions-on-linux/)
 - [A Quick and Easy Guide to Listing Available Partitions on Linux](https://urielwilson.com/a-quick-and-easy-guide-to-listing-available-partitions-on-linux/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Conference Launch or Bust? A Guide to Launching Your Software Product at a Conference](https://urielwilson.com/conference-launch-or-bust-a-guide-to-launching-your-software-product-at-a-conference/)
 - [Secure Your Online Privacy with NordVPN: The Ultimate Guide to CLI Commands](https://urielwilson.com/secure-your-online-privacy-with-nordvpn-the-ultimate-guide-to-cli-commands/)
 - [Implementing Proper Cron Job for WordPress](https://urielwilson.com/implementing-proper-cron-job-for-wordpress/)
-- [Caching API Calls in WordPress Using Transients](https://urielwilson.com/caching-api-calls-in-wordpress-using-transients/)
 <!-- BLOG-POST-LIST:END -->
 
 
