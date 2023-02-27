@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Use SFTP with  file explorer: connect to an SFTP server using the file explorer](https://urielwilson.com/use-sftp-with-file-explorer-connect-to-an-sftp-server-using-the-file-explorer/)
 - [Software Developers: Gods Among Us &lpar;The Perks of Programming&rpar;](https://urielwilson.com/software-developers-gods-among-us-the-perks-of-programming/)
 - [Conference Launch or Bust? A Guide to Launching Your Software Product at a Conference](https://urielwilson.com/conference-launch-or-bust-a-guide-to-launching-your-software-product-at-a-conference/)
 - [Secure Your Online Privacy with NordVPN: The Ultimate Guide to CLI Commands](https://urielwilson.com/secure-your-online-privacy-with-nordvpn-the-ultimate-guide-to-cli-commands/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Quicksort: A Fast and Efficient Sorting Algorithm](https://urielwilson.com/quicksort-a-fast-and-efficient-sorting-algorithm/)
 - [Overcoming Imposter Syndrome in Software Engineering: Tips and Strategies for Success](https://urielwilson.com/overcoming-imposter-syndrome-in-software-engineering-tips-and-strategies-for-success/)
 - [The Secrets to Becoming a Great Software Engineer: Tips and Strategies for Success](https://urielwilson.com/the-secrets-to-becoming-a-great-software-engineer-tips-and-strategies-for-success/)
-- [Efficiency Tips for New Software Engineers: Working Smarter, Not Harder](https://urielwilson.com/efficiency-tips-for-new-software-engineers-working-smarter-not-harder/)
 <!-- BLOG-POST-LIST:END -->
 
 
