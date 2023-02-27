@@ -34,11 +34,16 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
-- [How to quickly rename multiple files by replacing a specific string in the filename](https://urielwilson.com/how-to-quickly-rename-multiple-files-by-replacing-a-specific-string-in-the-filename/)
-- [How to Delete Files and Directories with the Linux Command Line](https://urielwilson.com/how-to-delete-files-and-directories-with-the-linux-command-line/)
-- [How to verify your Ubuntu download, SHA256 checksum](https://urielwilson.com/how-to-verify-your-ubuntu-download-sha256-checksum/)
-- [Quick Tip: JavaScript Ternary Operator and PHP Ternary Operator](https://urielwilson.com/quick-tip-javascript-ternary-operator-and-php-ternary-operator/)
-- [How to Retrieve a list of database table names for WordPress Database](https://urielwilson.com/how-to-retrieve-a-list-of-database-table-names-for-wordpress-database/)
+- [Secure Your Online Privacy with NordVPN: The Ultimate Guide to CLI Commands](https://urielwilson.com/secure-your-online-privacy-with-nordvpn-the-ultimate-guide-to-cli-commands/)
+- [Implementing Proper Cron Job for WordPress](https://urielwilson.com/implementing-proper-cron-job-for-wordpress/)
+- [Caching API Calls in WordPress Using Transients](https://urielwilson.com/caching-api-calls-in-wordpress-using-transients/)
+- [Merge Sort Algorithm: Explanation and Implementation in PHP and JavaScript](https://urielwilson.com/merge-sort-algorithm-explanation-and-implementation-in-php-and-javascript/)
+- [Quicksort: A Fast and Efficient Sorting Algorithm](https://urielwilson.com/quicksort-a-fast-and-efficient-sorting-algorithm/)
+- [Overcoming Imposter Syndrome in Software Engineering: Tips and Strategies for Success](https://urielwilson.com/overcoming-imposter-syndrome-in-software-engineering-tips-and-strategies-for-success/)
+- [The Secrets to Becoming a Great Software Engineer: Tips and Strategies for Success](https://urielwilson.com/the-secrets-to-becoming-a-great-software-engineer-tips-and-strategies-for-success/)
+- [Efficiency Tips for New Software Engineers: Working Smarter, Not Harder](https://urielwilson.com/efficiency-tips-for-new-software-engineers-working-smarter-not-harder/)
+- [Why Technical Coding Interviews Are So Challenging: Understanding the Obstacles for Software Engineers](https://urielwilson.com/why-technical-coding-interviews-are-so-challenging-understanding-the-obstacles-for-software-engineers/)
+- [Crafting the Perfect Software Engineer Resume: Tips and Best Practices](https://urielwilson.com/crafting-the-perfect-software-engineer-resume-tips-and-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 
