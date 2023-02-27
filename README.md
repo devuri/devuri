@@ -34,6 +34,8 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Software Developers: Gods Among Us &lpar;The Perks of Programming&rpar;](https://urielwilson.com/software-developers-gods-among-us-the-perks-of-programming/)
+- [Conference Launch or Bust? A Guide to Launching Your Software Product at a Conference](https://urielwilson.com/conference-launch-or-bust-a-guide-to-launching-your-software-product-at-a-conference/)
 - [Secure Your Online Privacy with NordVPN: The Ultimate Guide to CLI Commands](https://urielwilson.com/secure-your-online-privacy-with-nordvpn-the-ultimate-guide-to-cli-commands/)
 - [Implementing Proper Cron Job for WordPress](https://urielwilson.com/implementing-proper-cron-job-for-wordpress/)
 - [Caching API Calls in WordPress Using Transients](https://urielwilson.com/caching-api-calls-in-wordpress-using-transients/)
@@ -42,8 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Overcoming Imposter Syndrome in Software Engineering: Tips and Strategies for Success](https://urielwilson.com/overcoming-imposter-syndrome-in-software-engineering-tips-and-strategies-for-success/)
 - [The Secrets to Becoming a Great Software Engineer: Tips and Strategies for Success](https://urielwilson.com/the-secrets-to-becoming-a-great-software-engineer-tips-and-strategies-for-success/)
 - [Efficiency Tips for New Software Engineers: Working Smarter, Not Harder](https://urielwilson.com/efficiency-tips-for-new-software-engineers-working-smarter-not-harder/)
-- [Why Technical Coding Interviews Are So Challenging: Understanding the Obstacles for Software Engineers](https://urielwilson.com/why-technical-coding-interviews-are-so-challenging-understanding-the-obstacles-for-software-engineers/)
-- [Crafting the Perfect Software Engineer Resume: Tips and Best Practices](https://urielwilson.com/crafting-the-perfect-software-engineer-resume-tips-and-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 
