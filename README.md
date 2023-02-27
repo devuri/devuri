@@ -34,16 +34,16 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Guide: How to Install Ubuntu Server on Your Machine](https://urielwilson.com/step-by-step-guide-how-to-install-ubuntu-server-on-your-machine/)
+- [A Comprehensive Guide to Managing Disk Partitions on Linux](https://urielwilson.com/a-comprehensive-guide-to-managing-disk-partitions-on-linux/)
+- [A Quick and Easy Guide to Listing Available Partitions on Linux](https://urielwilson.com/a-quick-and-easy-guide-to-listing-available-partitions-on-linux/)
+- [How to Mount a USB Drive on Linux: A Step-by-Step Guide to Accessing Your Data](https://urielwilson.com/how-to-mount-a-usb-drive-on-linux-a-step-by-step-guide-to-accessing-your-data/)
 - [Use SFTP with  file explorer: connect to an SFTP server using the file explorer](https://urielwilson.com/use-sftp-with-file-explorer-connect-to-an-sftp-server-using-the-file-explorer/)
 - [Software Developers: Gods Among Us &lpar;The Perks of Programming&rpar;](https://urielwilson.com/software-developers-gods-among-us-the-perks-of-programming/)
 - [Conference Launch or Bust? A Guide to Launching Your Software Product at a Conference](https://urielwilson.com/conference-launch-or-bust-a-guide-to-launching-your-software-product-at-a-conference/)
 - [Secure Your Online Privacy with NordVPN: The Ultimate Guide to CLI Commands](https://urielwilson.com/secure-your-online-privacy-with-nordvpn-the-ultimate-guide-to-cli-commands/)
 - [Implementing Proper Cron Job for WordPress](https://urielwilson.com/implementing-proper-cron-job-for-wordpress/)
 - [Caching API Calls in WordPress Using Transients](https://urielwilson.com/caching-api-calls-in-wordpress-using-transients/)
-- [Merge Sort Algorithm: Explanation and Implementation in PHP and JavaScript](https://urielwilson.com/merge-sort-algorithm-explanation-and-implementation-in-php-and-javascript/)
-- [Quicksort: A Fast and Efficient Sorting Algorithm](https://urielwilson.com/quicksort-a-fast-and-efficient-sorting-algorithm/)
-- [Overcoming Imposter Syndrome in Software Engineering: Tips and Strategies for Success](https://urielwilson.com/overcoming-imposter-syndrome-in-software-engineering-tips-and-strategies-for-success/)
-- [The Secrets to Becoming a Great Software Engineer: Tips and Strategies for Success](https://urielwilson.com/the-secrets-to-becoming-a-great-software-engineer-tips-and-strategies-for-success/)
 <!-- BLOG-POST-LIST:END -->
 
 
