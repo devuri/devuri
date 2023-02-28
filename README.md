@@ -34,6 +34,8 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Bootstrapping Your Business: How the Stair Step Method Can Help You Succeed](https://urielwilson.com/bootstrapping-your-business-how-the-stair-step-method-can-help-you-succeed/)
+- [Securing Your Website with Python and Let’s Encrypt SSL Certificates using Certbot](https://urielwilson.com/securing-your-website-with-python-and-lets-encrypt-ssl-certificates-using-certbot/)
 - [How to Install and Configure Apache, PHP, and MySQL on Ubuntu using Python](https://urielwilson.com/how-to-install-and-configure-apache-php-and-mysql-on-ubuntu-using-python/)
 - [Step-by-Step Guide: How to Install Ubuntu Server on Your Machine](https://urielwilson.com/step-by-step-guide-how-to-install-ubuntu-server-on-your-machine/)
 - [A Comprehensive Guide to Managing Disk Partitions on Linux](https://urielwilson.com/a-comprehensive-guide-to-managing-disk-partitions-on-linux/)
@@ -42,8 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Use SFTP with  file explorer: connect to an SFTP server using the file explorer](https://urielwilson.com/use-sftp-with-file-explorer-connect-to-an-sftp-server-using-the-file-explorer/)
 - [Software Developers: Gods Among Us &lpar;The Perks of Programming&rpar;](https://urielwilson.com/software-developers-gods-among-us-the-perks-of-programming/)
 - [Conference Launch or Bust? A Guide to Launching Your Software Product at a Conference](https://urielwilson.com/conference-launch-or-bust-a-guide-to-launching-your-software-product-at-a-conference/)
-- [Secure Your Online Privacy with NordVPN: The Ultimate Guide to CLI Commands](https://urielwilson.com/secure-your-online-privacy-with-nordvpn-the-ultimate-guide-to-cli-commands/)
-- [Implementing Proper Cron Job for WordPress](https://urielwilson.com/implementing-proper-cron-job-for-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 
