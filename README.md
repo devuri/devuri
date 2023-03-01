@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How to Fetch and Update Data from a REST API using Laravel](https://urielwilson.com/how-to-fetch-and-update-data-from-a-rest-api-using-laravel/)
 - [Bootstrapping Your Business: How the Stair Step Method Can Help You Succeed](https://urielwilson.com/bootstrapping-your-business-how-the-stair-step-method-can-help-you-succeed/)
 - [Securing Your Website with Python and Let’s Encrypt SSL Certificates using Certbot](https://urielwilson.com/securing-your-website-with-python-and-lets-encrypt-ssl-certificates-using-certbot/)
 - [How to Install and Configure Apache, PHP, and MySQL on Ubuntu using Python](https://urielwilson.com/how-to-install-and-configure-apache-php-and-mysql-on-ubuntu-using-python/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Mount a USB Drive on Linux: A Step-by-Step Guide to Accessing Your Data](https://urielwilson.com/how-to-mount-a-usb-drive-on-linux-a-step-by-step-guide-to-accessing-your-data/)
 - [Use SFTP with  file explorer: connect to an SFTP server using the file explorer](https://urielwilson.com/use-sftp-with-file-explorer-connect-to-an-sftp-server-using-the-file-explorer/)
 - [Software Developers: Gods Among Us &lpar;The Perks of Programming&rpar;](https://urielwilson.com/software-developers-gods-among-us-the-perks-of-programming/)
-- [Conference Launch or Bust? A Guide to Launching Your Software Product at a Conference](https://urielwilson.com/conference-launch-or-bust-a-guide-to-launching-your-software-product-at-a-conference/)
 <!-- BLOG-POST-LIST:END -->
 
 
