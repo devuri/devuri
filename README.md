@@ -34,6 +34,9 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Tailwind CSS: A Beginner’s Guide to Rapid Web Development](https://urielwilson.com/getting-started-with-tailwind-css-a-beginners-guide-to-rapid-web-development/)
+- [Building a Secure Laravel API for Video Data Retrieval](https://urielwilson.com/building-a-secure-laravel-api-for-video-data-retrieval/)
+- [How to Use the :not CSS pseudo-class with Examples](https://urielwilson.com/how-to-use-the-not-css-pseudo-class-with-examples/)
 - [How to Fetch and Update Data from a REST API using Laravel](https://urielwilson.com/how-to-fetch-and-update-data-from-a-rest-api-using-laravel/)
 - [Bootstrapping Your Business: How the Stair Step Method Can Help You Succeed](https://urielwilson.com/bootstrapping-your-business-how-the-stair-step-method-can-help-you-succeed/)
 - [Securing Your Website with Python and Let’s Encrypt SSL Certificates using Certbot](https://urielwilson.com/securing-your-website-with-python-and-lets-encrypt-ssl-certificates-using-certbot/)
@@ -41,9 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Step-by-Step Guide: How to Install Ubuntu Server on Your Machine](https://urielwilson.com/step-by-step-guide-how-to-install-ubuntu-server-on-your-machine/)
 - [A Comprehensive Guide to Managing Disk Partitions on Linux](https://urielwilson.com/a-comprehensive-guide-to-managing-disk-partitions-on-linux/)
 - [A Quick and Easy Guide to Listing Available Partitions on Linux](https://urielwilson.com/a-quick-and-easy-guide-to-listing-available-partitions-on-linux/)
-- [How to Mount a USB Drive on Linux: A Step-by-Step Guide to Accessing Your Data](https://urielwilson.com/how-to-mount-a-usb-drive-on-linux-a-step-by-step-guide-to-accessing-your-data/)
-- [Use SFTP with  file explorer: connect to an SFTP server using the file explorer](https://urielwilson.com/use-sftp-with-file-explorer-connect-to-an-sftp-server-using-the-file-explorer/)
-- [Software Developers: Gods Among Us &lpar;The Perks of Programming&rpar;](https://urielwilson.com/software-developers-gods-among-us-the-perks-of-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 
