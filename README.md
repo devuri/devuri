@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Generating UUIDs in PHP with the UUIDGenerator Class](https://urielwilson.com/generating-uuids-in-php-with-the-uuidgenerator-class/)
 - [Getting Started with Tailwind CSS: A Beginner’s Guide to Rapid Web Development](https://urielwilson.com/getting-started-with-tailwind-css-a-beginners-guide-to-rapid-web-development/)
 - [Building a Secure Laravel API for Video Data Retrieval](https://urielwilson.com/building-a-secure-laravel-api-for-video-data-retrieval/)
 - [How to Use the :not CSS pseudo-class with Examples](https://urielwilson.com/how-to-use-the-not-css-pseudo-class-with-examples/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Install and Configure Apache, PHP, and MySQL on Ubuntu using Python](https://urielwilson.com/how-to-install-and-configure-apache-php-and-mysql-on-ubuntu-using-python/)
 - [Step-by-Step Guide: How to Install Ubuntu Server on Your Machine](https://urielwilson.com/step-by-step-guide-how-to-install-ubuntu-server-on-your-machine/)
 - [A Comprehensive Guide to Managing Disk Partitions on Linux](https://urielwilson.com/a-comprehensive-guide-to-managing-disk-partitions-on-linux/)
-- [A Quick and Easy Guide to Listing Available Partitions on Linux](https://urielwilson.com/a-quick-and-easy-guide-to-listing-available-partitions-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
