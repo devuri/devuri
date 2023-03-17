@@ -34,6 +34,9 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your Linux System with Lynis](https://urielwilson.com/secure-your-linux-system-with-lynis/)
+- [Securely Expose Your Local Web Application to the Internet with localtunnel.me](https://urielwilson.com/securely-expose-your-local-web-application-to-the-internet-with-localtunnel-me/)
+- [Securely Expose Your Locally Running Web Application to the Internet with ngrok](https://urielwilson.com/securely-expose-your-locally-running-web-application-to-the-internet-with-ngrok/)
 - [Securing Your Docker Environment with Auditd: A Step-by-Step Guide](https://urielwilson.com/securing-your-docker-environment-with-auditd-a-step-by-step-guide/)
 - [Generating UUIDs in PHP with the UUIDGenerator Class](https://urielwilson.com/generating-uuids-in-php-with-the-uuidgenerator-class/)
 - [Getting Started with Tailwind CSS: A Beginner’s Guide to Rapid Web Development](https://urielwilson.com/getting-started-with-tailwind-css-a-beginners-guide-to-rapid-web-development/)
@@ -41,9 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Use the :not CSS pseudo-class with Examples](https://urielwilson.com/how-to-use-the-not-css-pseudo-class-with-examples/)
 - [How to Fetch and Update Data from a REST API using Laravel](https://urielwilson.com/how-to-fetch-and-update-data-from-a-rest-api-using-laravel/)
 - [Bootstrapping Your Business: How the Stair Step Method Can Help You Succeed](https://urielwilson.com/bootstrapping-your-business-how-the-stair-step-method-can-help-you-succeed/)
-- [Securing Your Website with Python and Let’s Encrypt SSL Certificates using Certbot](https://urielwilson.com/securing-your-website-with-python-and-lets-encrypt-ssl-certificates-using-certbot/)
-- [How to Install and Configure Apache, PHP, and MySQL on Ubuntu using Python](https://urielwilson.com/how-to-install-and-configure-apache-php-and-mysql-on-ubuntu-using-python/)
-- [Step-by-Step Guide: How to Install Ubuntu Server on Your Machine](https://urielwilson.com/step-by-step-guide-how-to-install-ubuntu-server-on-your-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 
