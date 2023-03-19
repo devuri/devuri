@@ -34,6 +34,8 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Managed WordPress Hosting Platforms and Restricted Plugins](https://urielwilson.com/managed-wordpress-hosting-platforms-and-restricted-plugins/)
+- [Why Managed Hosting Platforms Restrict Plugins](https://urielwilson.com/why-managed-hosting-platforms-restrict-plugins/)
 - [Secure Your Linux System with Lynis](https://urielwilson.com/secure-your-linux-system-with-lynis/)
 - [Securely Expose Your Local Web Application to the Internet with localtunnel.me](https://urielwilson.com/securely-expose-your-local-web-application-to-the-internet-with-localtunnel-me/)
 - [Securely Expose Your Locally Running Web Application to the Internet with ngrok](https://urielwilson.com/securely-expose-your-locally-running-web-application-to-the-internet-with-ngrok/)
@@ -42,8 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Getting Started with Tailwind CSS: A Beginner’s Guide to Rapid Web Development](https://urielwilson.com/getting-started-with-tailwind-css-a-beginners-guide-to-rapid-web-development/)
 - [Building a Secure Laravel API for Video Data Retrieval](https://urielwilson.com/building-a-secure-laravel-api-for-video-data-retrieval/)
 - [How to Use the :not CSS pseudo-class with Examples](https://urielwilson.com/how-to-use-the-not-css-pseudo-class-with-examples/)
-- [How to Fetch and Update Data from a REST API using Laravel](https://urielwilson.com/how-to-fetch-and-update-data-from-a-rest-api-using-laravel/)
-- [Bootstrapping Your Business: How the Stair Step Method Can Help You Succeed](https://urielwilson.com/bootstrapping-your-business-how-the-stair-step-method-can-help-you-succeed/)
 <!-- BLOG-POST-LIST:END -->
 
 
