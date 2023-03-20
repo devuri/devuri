@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Building Scalable and Reliable Applications: A Guide to Adhering to the 12 Factor App Principles](https://urielwilson.com/1555-2/)
 - [Managed WordPress Hosting Platforms and Restricted Plugins](https://urielwilson.com/managed-wordpress-hosting-platforms-and-restricted-plugins/)
 - [Why Managed Hosting Platforms Restrict Plugins](https://urielwilson.com/why-managed-hosting-platforms-restrict-plugins/)
 - [Secure Your Linux System with Lynis](https://urielwilson.com/secure-your-linux-system-with-lynis/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Generating UUIDs in PHP with the UUIDGenerator Class](https://urielwilson.com/generating-uuids-in-php-with-the-uuidgenerator-class/)
 - [Getting Started with Tailwind CSS: A Beginner’s Guide to Rapid Web Development](https://urielwilson.com/getting-started-with-tailwind-css-a-beginners-guide-to-rapid-web-development/)
 - [Building a Secure Laravel API for Video Data Retrieval](https://urielwilson.com/building-a-secure-laravel-api-for-video-data-retrieval/)
-- [How to Use the :not CSS pseudo-class with Examples](https://urielwilson.com/how-to-use-the-not-css-pseudo-class-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 
