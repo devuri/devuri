@@ -34,6 +34,8 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [10,000 Steps for Tech Workers: The Importance of Staying Active in a Sedentary Job](https://urielwilson.com/10000-steps-for-tech-workers-the-importance-of-staying-active-in-a-sedentary-job/)
+- [Kidney Disease: An Insight into Causes, Symptoms, and Management](https://urielwilson.com/kidney-disease-an-insight-into-causes-symptoms-and-management/)
 - [Getting Started with Docker: A Basic Bare Bones Setup for a LAMP Stack](https://urielwilson.com/getting-started-with-docker-a-basic-bare-bones-setup-for-a-lamp-stack/)
 - [Enhance Your SSH Security: Setting up Local and Remote Servers to Use SSH Key Connection](https://urielwilson.com/enhance-your-ssh-security-setting-up-local-and-remote-servers-to-use-ssh-key-connection/)
 - [Secure Your SSH Connections: How to Add Github.com to Known Hosts in Ubuntu](https://urielwilson.com/secure-your-ssh-connections-how-to-add-github-com-to-known-hosts-in-ubuntu/)
@@ -42,8 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Why Managed Hosting Platforms Restrict Plugins](https://urielwilson.com/why-managed-hosting-platforms-restrict-plugins/)
 - [Secure Your Linux System with Lynis](https://urielwilson.com/secure-your-linux-system-with-lynis/)
 - [Securely Expose Your Local Web Application to the Internet with localtunnel.me](https://urielwilson.com/securely-expose-your-local-web-application-to-the-internet-with-localtunnel-me/)
-- [Securely Expose Your Locally Running Web Application to the Internet with ngrok](https://urielwilson.com/securely-expose-your-locally-running-web-application-to-the-internet-with-ngrok/)
-- [Securing Your Docker Environment with Auditd: A Step-by-Step Guide](https://urielwilson.com/securing-your-docker-environment-with-auditd-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
