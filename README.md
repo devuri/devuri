@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your SSH Connections: How to Add Github.com to Known Hosts in Ubuntu](https://urielwilson.com/secure-your-ssh-connections-how-to-add-github-com-to-known-hosts-in-ubuntu/)
 - [Building Scalable and Reliable Applications: A Guide to Adhering to the 12 Factor App Principles](https://urielwilson.com/1555-2/)
 - [Managed WordPress Hosting Platforms and Restricted Plugins](https://urielwilson.com/managed-wordpress-hosting-platforms-and-restricted-plugins/)
 - [Why Managed Hosting Platforms Restrict Plugins](https://urielwilson.com/why-managed-hosting-platforms-restrict-plugins/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Securing Your Docker Environment with Auditd: A Step-by-Step Guide](https://urielwilson.com/securing-your-docker-environment-with-auditd-a-step-by-step-guide/)
 - [Generating UUIDs in PHP with the UUIDGenerator Class](https://urielwilson.com/generating-uuids-in-php-with-the-uuidgenerator-class/)
 - [Getting Started with Tailwind CSS: A Beginner’s Guide to Rapid Web Development](https://urielwilson.com/getting-started-with-tailwind-css-a-beginners-guide-to-rapid-web-development/)
-- [Building a Secure Laravel API for Video Data Retrieval](https://urielwilson.com/building-a-secure-laravel-api-for-video-data-retrieval/)
 <!-- BLOG-POST-LIST:END -->
 
 
