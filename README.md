@@ -34,6 +34,8 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Docker: A Basic Bare Bones Setup for a LAMP Stack](https://urielwilson.com/getting-started-with-docker-a-basic-bare-bones-setup-for-a-lamp-stack/)
+- [Enhance Your SSH Security: Setting up Local and Remote Servers to Use SSH Key Connection](https://urielwilson.com/enhance-your-ssh-security-setting-up-local-and-remote-servers-to-use-ssh-key-connection/)
 - [Secure Your SSH Connections: How to Add Github.com to Known Hosts in Ubuntu](https://urielwilson.com/secure-your-ssh-connections-how-to-add-github-com-to-known-hosts-in-ubuntu/)
 - [Building Scalable and Reliable Applications: A Guide to Adhering to the 12 Factor App Principles](https://urielwilson.com/1555-2/)
 - [Managed WordPress Hosting Platforms and Restricted Plugins](https://urielwilson.com/managed-wordpress-hosting-platforms-and-restricted-plugins/)
@@ -42,8 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Securely Expose Your Local Web Application to the Internet with localtunnel.me](https://urielwilson.com/securely-expose-your-local-web-application-to-the-internet-with-localtunnel-me/)
 - [Securely Expose Your Locally Running Web Application to the Internet with ngrok](https://urielwilson.com/securely-expose-your-locally-running-web-application-to-the-internet-with-ngrok/)
 - [Securing Your Docker Environment with Auditd: A Step-by-Step Guide](https://urielwilson.com/securing-your-docker-environment-with-auditd-a-step-by-step-guide/)
-- [Generating UUIDs in PHP with the UUIDGenerator Class](https://urielwilson.com/generating-uuids-in-php-with-the-uuidgenerator-class/)
-- [Getting Started with Tailwind CSS: A Beginner’s Guide to Rapid Web Development](https://urielwilson.com/getting-started-with-tailwind-css-a-beginners-guide-to-rapid-web-development/)
 <!-- BLOG-POST-LIST:END -->
 
 
