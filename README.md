@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How To Setup a Firewall with UFW on an Ubuntu and Debian Cloud Server](https://urielwilson.com/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server/)
 - [10,000 Steps for Tech Workers: The Importance of Staying Active in a Sedentary Job](https://urielwilson.com/10000-steps-for-tech-workers-the-importance-of-staying-active-in-a-sedentary-job/)
 - [Kidney Disease: An Insight into Causes, Symptoms, and Management](https://urielwilson.com/kidney-disease-an-insight-into-causes-symptoms-and-management/)
 - [Getting Started with Docker: A Basic Bare Bones Setup for a LAMP Stack](https://urielwilson.com/getting-started-with-docker-a-basic-bare-bones-setup-for-a-lamp-stack/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Managed WordPress Hosting Platforms and Restricted Plugins](https://urielwilson.com/managed-wordpress-hosting-platforms-and-restricted-plugins/)
 - [Why Managed Hosting Platforms Restrict Plugins](https://urielwilson.com/why-managed-hosting-platforms-restrict-plugins/)
 - [Secure Your Linux System with Lynis](https://urielwilson.com/secure-your-linux-system-with-lynis/)
-- [Securely Expose Your Local Web Application to the Internet with localtunnel.me](https://urielwilson.com/securely-expose-your-local-web-application-to-the-internet-with-localtunnel-me/)
 <!-- BLOG-POST-LIST:END -->
 
 
