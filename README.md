@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How to Import a MySQL Database Using the Command Line](https://urielwilson.com/how-to-import-a-mysql-database-using-the-command-line/)
 - [How To Setup a Firewall with UFW on an Ubuntu and Debian Cloud Server](https://urielwilson.com/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server/)
 - [10,000 Steps for Tech Workers: The Importance of Staying Active in a Sedentary Job](https://urielwilson.com/10000-steps-for-tech-workers-the-importance-of-staying-active-in-a-sedentary-job/)
 - [Kidney Disease: An Insight into Causes, Symptoms, and Management](https://urielwilson.com/kidney-disease-an-insight-into-causes-symptoms-and-management/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Building Scalable and Reliable Applications: A Guide to Adhering to the 12 Factor App Principles](https://urielwilson.com/1555-2/)
 - [Managed WordPress Hosting Platforms and Restricted Plugins](https://urielwilson.com/managed-wordpress-hosting-platforms-and-restricted-plugins/)
 - [Why Managed Hosting Platforms Restrict Plugins](https://urielwilson.com/why-managed-hosting-platforms-restrict-plugins/)
-- [Secure Your Linux System with Lynis](https://urielwilson.com/secure-your-linux-system-with-lynis/)
 <!-- BLOG-POST-LIST:END -->
 
 
