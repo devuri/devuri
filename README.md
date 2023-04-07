@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Mounting a Linux Partition on an External Drive in Linux](https://urielwilson.com/mounting-a-linux-partition-on-an-external-drive-in-linux/)
 - [Resizing Logical Volumes on Ubuntu Server: How to Allocate Full Disk Capacity](https://urielwilson.com/resizing-logical-volumes-on-ubuntu-server-how-to-allocate-full-disk-capacity/)
 - [Automating Release Processes with GitPython: Cloning and Tagging Remote Repositories in Python](https://urielwilson.com/automating-release-processes-with-gitpython-cloning-and-tagging-remote-repositories-in-python/)
 - [How to Parse .env File Contents into an Array in PHP](https://urielwilson.com/how-to-parse-env-file-contents-into-an-array-in-php/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Kidney Disease: An Insight into Causes, Symptoms, and Management](https://urielwilson.com/kidney-disease-an-insight-into-causes-symptoms-and-management/)
 - [Getting Started with Docker: A Basic Bare Bones Setup for a LAMP Stack](https://urielwilson.com/getting-started-with-docker-a-basic-bare-bones-setup-for-a-lamp-stack/)
 - [Enhance Your SSH Security: Setting up Local and Remote Servers to Use SSH Key Connection](https://urielwilson.com/enhance-your-ssh-security-setting-up-local-and-remote-servers-to-use-ssh-key-connection/)
-- [Secure Your SSH Connections: How to Add Github.com to Known Hosts in Ubuntu](https://urielwilson.com/secure-your-ssh-connections-how-to-add-github-com-to-known-hosts-in-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 
