@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Custom Fields for WordPress vs Custom PHP](https://urielwilson.com/advanced-custom-fields-for-wordpress-vs-custom-php/)
 - [How to Change Your Email Address in Git: A Step-by-Step Guide](https://urielwilson.com/how-to-change-your-email-address-in-git-a-step-by-step-guide/)
 - [Securing Your Commits: A Guide to Generating and Using GPG Keys on GitHub](https://urielwilson.com/securing-your-commits-a-guide-to-generating-and-using-gpg-keys-on-github/)
 - [Mounting a Linux Partition on an External Drive in Linux](https://urielwilson.com/mounting-a-linux-partition-on-an-external-drive-in-linux/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Import a MySQL Database Using the Command Line](https://urielwilson.com/how-to-import-a-mysql-database-using-the-command-line/)
 - [How To Setup a Firewall with UFW on an Ubuntu and Debian Cloud Server](https://urielwilson.com/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server/)
 - [10,000 Steps for Tech Workers: The Importance of Staying Active in a Sedentary Job](https://urielwilson.com/10000-steps-for-tech-workers-the-importance-of-staying-active-in-a-sedentary-job/)
-- [Kidney Disease: An Insight into Causes, Symptoms, and Management](https://urielwilson.com/kidney-disease-an-insight-into-causes-symptoms-and-management/)
 <!-- BLOG-POST-LIST:END -->
 
 
