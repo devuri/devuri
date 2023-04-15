@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your PHP Code with the Simple and Flexible evp_hash&lpar;&rpar; Function](https://urielwilson.com/secure-your-php-code-with-the-simple-and-flexible-evp_hash-function/)
 - [Advanced Custom Fields for WordPress vs Custom PHP](https://urielwilson.com/advanced-custom-fields-for-wordpress-vs-custom-php/)
 - [How to Change Your Email Address in Git: A Step-by-Step Guide](https://urielwilson.com/how-to-change-your-email-address-in-git-a-step-by-step-guide/)
 - [Securing Your Commits: A Guide to Generating and Using GPG Keys on GitHub](https://urielwilson.com/securing-your-commits-a-guide-to-generating-and-using-gpg-keys-on-github/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Parse .env File Contents into an Array in PHP](https://urielwilson.com/how-to-parse-env-file-contents-into-an-array-in-php/)
 - [How to Import a MySQL Database Using the Command Line](https://urielwilson.com/how-to-import-a-mysql-database-using-the-command-line/)
 - [How To Setup a Firewall with UFW on an Ubuntu and Debian Cloud Server](https://urielwilson.com/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server/)
-- [10,000 Steps for Tech Workers: The Importance of Staying Active in a Sedentary Job](https://urielwilson.com/10000-steps-for-tech-workers-the-importance-of-staying-active-in-a-sedentary-job/)
 <!-- BLOG-POST-LIST:END -->
 
 
