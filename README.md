@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How to Install Redis and Set a Password on Linux](https://urielwilson.com/how-to-install-redis-and-set-a-password-on-linux/)
 - [How to Add a Related Posts Feature to Your WordPress Site](https://urielwilson.com/how-to-add-a-related-posts-feature-to-your-wordpress-site/)
 - [Secure Your PHP Code with the Simple and Flexible evp_hash&lpar;&rpar; Function](https://urielwilson.com/secure-your-php-code-with-the-simple-and-flexible-evp_hash-function/)
 - [Advanced Custom Fields for WordPress vs Custom PHP](https://urielwilson.com/advanced-custom-fields-for-wordpress-vs-custom-php/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Resizing Logical Volumes on Ubuntu Server: How to Allocate Full Disk Capacity](https://urielwilson.com/resizing-logical-volumes-on-ubuntu-server-how-to-allocate-full-disk-capacity/)
 - [Automating Release Processes with GitPython: Cloning and Tagging Remote Repositories in Python](https://urielwilson.com/automating-release-processes-with-gitpython-cloning-and-tagging-remote-repositories-in-python/)
 - [How to Parse .env File Contents into an Array in PHP](https://urielwilson.com/how-to-parse-env-file-contents-into-an-array-in-php/)
-- [How to Import a MySQL Database Using the Command Line](https://urielwilson.com/how-to-import-a-mysql-database-using-the-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 
