@@ -34,16 +34,16 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Complete Tutorial: Setting Up Reliable SMTP for WordPress Using SendGrid Plugin](https://urielwilson.com/complete-tutorial-setting-up-reliable-smtp-for-wordpress-using-sendgrid-plugin/)
+- [Building an Emby Server: Unleash Your Media Library’s Potential](https://urielwilson.com/building-an-emby-server-unleash-your-media-librarys-potential/)
+- [Understanding the WordPress Object Cache: Boosting Performance and Efficiency](https://urielwilson.com/understanding-the-wordpress-object-cache-boosting-performance-and-efficiency/)
+- [Creating a PHP Contact Form Plugin for WordPress: A Step-by-Step Guide](https://urielwilson.com/creating-a-php-contact-form-plugin-for-wordpress-a-step-by-step-guide/)
 - [The .zip Domain: Google’s Controversial Move Raises Concerns in Cybersecurity](https://urielwilson.com/the-zip-domain-googles-controversial-move-raises-concerns-in-cybersecurity/)
 - [How to Install Redis and Set a Password on Linux](https://urielwilson.com/how-to-install-redis-and-set-a-password-on-linux/)
 - [How to Add a Related Posts Feature to Your WordPress Site](https://urielwilson.com/how-to-add-a-related-posts-feature-to-your-wordpress-site/)
 - [Secure Your PHP Code with the Simple and Flexible evp_hash&lpar;&rpar; Function](https://urielwilson.com/secure-your-php-code-with-the-simple-and-flexible-evp_hash-function/)
 - [Advanced Custom Fields for WordPress vs Custom PHP](https://urielwilson.com/advanced-custom-fields-for-wordpress-vs-custom-php/)
 - [How to Change Your Email Address in Git: A Step-by-Step Guide](https://urielwilson.com/how-to-change-your-email-address-in-git-a-step-by-step-guide/)
-- [Securing Your Commits: A Guide to Generating and Using GPG Keys on GitHub](https://urielwilson.com/securing-your-commits-a-guide-to-generating-and-using-gpg-keys-on-github/)
-- [Mounting a Linux Partition on an External Drive in Linux](https://urielwilson.com/mounting-a-linux-partition-on-an-external-drive-in-linux/)
-- [Resizing Logical Volumes on Ubuntu Server: How to Allocate Full Disk Capacity](https://urielwilson.com/resizing-logical-volumes-on-ubuntu-server-how-to-allocate-full-disk-capacity/)
-- [Automating Release Processes with GitPython: Cloning and Tagging Remote Repositories in Python](https://urielwilson.com/automating-release-processes-with-gitpython-cloning-and-tagging-remote-repositories-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 
