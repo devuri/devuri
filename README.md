@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Documentation with Mermaid.js: Visualizing Concepts Made Easy](https://urielwilson.com/enhancing-documentation-with-mermaid-js-visualizing-concepts-made-easy/)
 - [Complete Tutorial: Setting Up Reliable SMTP for WordPress Using SendGrid Plugin](https://urielwilson.com/complete-tutorial-setting-up-reliable-smtp-for-wordpress-using-sendgrid-plugin/)
 - [Building an Emby Server: Unleash Your Media Library’s Potential](https://urielwilson.com/building-an-emby-server-unleash-your-media-librarys-potential/)
 - [Understanding the WordPress Object Cache: Boosting Performance and Efficiency](https://urielwilson.com/understanding-the-wordpress-object-cache-boosting-performance-and-efficiency/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Add a Related Posts Feature to Your WordPress Site](https://urielwilson.com/how-to-add-a-related-posts-feature-to-your-wordpress-site/)
 - [Secure Your PHP Code with the Simple and Flexible evp_hash&lpar;&rpar; Function](https://urielwilson.com/secure-your-php-code-with-the-simple-and-flexible-evp_hash-function/)
 - [Advanced Custom Fields for WordPress vs Custom PHP](https://urielwilson.com/advanced-custom-fields-for-wordpress-vs-custom-php/)
-- [How to Change Your Email Address in Git: A Step-by-Step Guide](https://urielwilson.com/how-to-change-your-email-address-in-git-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
