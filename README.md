@@ -34,16 +34,16 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Admin User in WordPress using a Custom Plugin](https://urielwilson.com/creating-an-admin-user-in-wordpress-using-a-custom-plugin/)
+- [Exploring wp_generate_password: Generating Secure Keys in WordPress](https://urielwilson.com/1672-2/)
+- [Generating Secure Keys in PHP: A Practical Approach](https://urielwilson.com/generating-secure-keys-in-php-a-practical-approach/)
 - [Enhancing Documentation with Mermaid.js: Visualizing Concepts Made Easy](https://urielwilson.com/enhancing-documentation-with-mermaid-js-visualizing-concepts-made-easy/)
 - [Complete Tutorial: Setting Up Reliable SMTP for WordPress Using SendGrid Plugin](https://urielwilson.com/complete-tutorial-setting-up-reliable-smtp-for-wordpress-using-sendgrid-plugin/)
 - [Building an Emby Server: Unleash Your Media Library’s Potential](https://urielwilson.com/building-an-emby-server-unleash-your-media-librarys-potential/)
 - [Understanding the WordPress Object Cache: Boosting Performance and Efficiency](https://urielwilson.com/understanding-the-wordpress-object-cache-boosting-performance-and-efficiency/)
 - [Creating a PHP Contact Form Plugin for WordPress: A Step-by-Step Guide](https://urielwilson.com/creating-a-php-contact-form-plugin-for-wordpress-a-step-by-step-guide/)
 - [The .zip Domain: Google’s Controversial Move Raises Concerns in Cybersecurity](https://urielwilson.com/the-zip-domain-googles-controversial-move-raises-concerns-in-cybersecurity/)
-- [How to Install Redis and Set a Password on Linux](https://urielwilson.com/how-to-install-redis-and-set-a-password-on-linux/)
-- [How to Add a Related Posts Feature to Your WordPress Site](https://urielwilson.com/how-to-add-a-related-posts-feature-to-your-wordpress-site/)
-- [Secure Your PHP Code with the Simple and Flexible evp_hash&lpar;&rpar; Function](https://urielwilson.com/secure-your-php-code-with-the-simple-and-flexible-evp_hash-function/)
-- [Advanced Custom Fields for WordPress vs Custom PHP](https://urielwilson.com/advanced-custom-fields-for-wordpress-vs-custom-php/)
+- [Generating Secure Keys in Python: A Practical Approach](https://urielwilson.com/generating-secure-keys-in-python-a-practical-approach/)
 <!-- BLOG-POST-LIST:END -->
 
 
