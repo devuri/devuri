@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Past: Exploring Different Ways to Check Domain History](https://urielwilson.com/unveiling-the-past-exploring-different-ways-to-check-domain-history/)
 - [How to Rekey a Windows Certificate in GoDaddy](https://urielwilson.com/how-to-rekey-a-windows-certificate-in-godaddy/)
 - [Creating an Admin User in WordPress using a Custom Plugin](https://urielwilson.com/creating-an-admin-user-in-wordpress-using-a-custom-plugin/)
 - [Exploring wp_generate_password: Generating Secure Keys in WordPress](https://urielwilson.com/1672-2/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Building an Emby Server: Unleash Your Media Library’s Potential](https://urielwilson.com/building-an-emby-server-unleash-your-media-librarys-potential/)
 - [Understanding the WordPress Object Cache: Boosting Performance and Efficiency](https://urielwilson.com/understanding-the-wordpress-object-cache-boosting-performance-and-efficiency/)
 - [Creating a PHP Contact Form Plugin for WordPress: A Step-by-Step Guide](https://urielwilson.com/creating-a-php-contact-form-plugin-for-wordpress-a-step-by-step-guide/)
-- [The .zip Domain: Google’s Controversial Move Raises Concerns in Cybersecurity](https://urielwilson.com/the-zip-domain-googles-controversial-move-raises-concerns-in-cybersecurity/)
 <!-- BLOG-POST-LIST:END -->
 
 
