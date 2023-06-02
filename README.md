@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How to Disable Plugin Deactivation in WordPress](https://urielwilson.com/how-to-disable-plugin-deactivation-in-wordpress/)
 - [Unveiling the Past: Exploring Different Ways to Check Domain History](https://urielwilson.com/unveiling-the-past-exploring-different-ways-to-check-domain-history/)
 - [How to Rekey a Windows Certificate in GoDaddy](https://urielwilson.com/how-to-rekey-a-windows-certificate-in-godaddy/)
 - [Creating an Admin User in WordPress using a Custom Plugin](https://urielwilson.com/creating-an-admin-user-in-wordpress-using-a-custom-plugin/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Complete Tutorial: Setting Up Reliable SMTP for WordPress Using SendGrid Plugin](https://urielwilson.com/complete-tutorial-setting-up-reliable-smtp-for-wordpress-using-sendgrid-plugin/)
 - [Building an Emby Server: Unleash Your Media Library’s Potential](https://urielwilson.com/building-an-emby-server-unleash-your-media-librarys-potential/)
 - [Understanding the WordPress Object Cache: Boosting Performance and Efficiency](https://urielwilson.com/understanding-the-wordpress-object-cache-boosting-performance-and-efficiency/)
-- [Creating a PHP Contact Form Plugin for WordPress: A Step-by-Step Guide](https://urielwilson.com/creating-a-php-contact-form-plugin-for-wordpress-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
