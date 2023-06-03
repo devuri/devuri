@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Responsive Navbar with Dropdowns Using Pure JavaScript and Tailwind CSS](https://urielwilson.com/ow-to-create-a-responsive-navbar-with-dropdowns-using-pure-javascript-and-tailwind-css/)
 - [How to Disable Plugin Deactivation in WordPress](https://urielwilson.com/how-to-disable-plugin-deactivation-in-wordpress/)
 - [Unveiling the Past: Exploring Different Ways to Check Domain History](https://urielwilson.com/unveiling-the-past-exploring-different-ways-to-check-domain-history/)
 - [How to Rekey a Windows Certificate in GoDaddy](https://urielwilson.com/how-to-rekey-a-windows-certificate-in-godaddy/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Enhancing Documentation with Mermaid.js: Visualizing Concepts Made Easy](https://urielwilson.com/enhancing-documentation-with-mermaid-js-visualizing-concepts-made-easy/)
 - [Complete Tutorial: Setting Up Reliable SMTP for WordPress Using SendGrid Plugin](https://urielwilson.com/complete-tutorial-setting-up-reliable-smtp-for-wordpress-using-sendgrid-plugin/)
 - [Building an Emby Server: Unleash Your Media Library’s Potential](https://urielwilson.com/building-an-emby-server-unleash-your-media-librarys-potential/)
-- [Understanding the WordPress Object Cache: Boosting Performance and Efficiency](https://urielwilson.com/understanding-the-wordpress-object-cache-boosting-performance-and-efficiency/)
 <!-- BLOG-POST-LIST:END -->
 
 
