@@ -34,6 +34,8 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Break Glass Procedure: Break the Glass Credentials: Ensuring Emergency Access in Critical Scenarios](https://urielwilson.com/break-the-glass-credentials-ensuring-emergency-access-in-critical-scenarios/)
+- [Mitigating the Bus Factor: Ensuring Continuity in Your Small IT Firm](https://urielwilson.com/mitigating-the-bus-factor-ensuring-continuity-in-your-small-it-firm/)
 - [A Comprehensive Guide to Removing MySQL from a Linux System](https://urielwilson.com/a-comprehensive-guide-to-removing-mysql-from-a-linux-system/)
 - [Laravel Project Initialization Script](https://urielwilson.com/laravel-project-initialization-script/)
 - [How to Create a Responsive Navbar with Dropdowns Using Pure JavaScript and Tailwind CSS](https://urielwilson.com/ow-to-create-a-responsive-navbar-with-dropdowns-using-pure-javascript-and-tailwind-css/)
@@ -42,8 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Rekey a Windows Certificate in GoDaddy](https://urielwilson.com/how-to-rekey-a-windows-certificate-in-godaddy/)
 - [Creating an Admin User in WordPress using a Custom Plugin](https://urielwilson.com/creating-an-admin-user-in-wordpress-using-a-custom-plugin/)
 - [Exploring wp_generate_password: Generating Secure Keys in WordPress](https://urielwilson.com/1672-2/)
-- [Generating Secure Keys in PHP: A Practical Approach](https://urielwilson.com/generating-secure-keys-in-php-a-practical-approach/)
-- [Enhancing Documentation with Mermaid.js: Visualizing Concepts Made Easy](https://urielwilson.com/enhancing-documentation-with-mermaid-js-visualizing-concepts-made-easy/)
 <!-- BLOG-POST-LIST:END -->
 
 
