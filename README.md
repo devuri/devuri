@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Configuring SSH Login and Changing Login Messages in Ubuntu](https://urielwilson.com/configuring-ssh-login-and-changing-login-messages-in-ubuntu/)
 - [Break Glass Procedure: Break the Glass Credentials: Ensuring Emergency Access in Critical Scenarios](https://urielwilson.com/break-the-glass-credentials-ensuring-emergency-access-in-critical-scenarios/)
 - [Mitigating the Bus Factor: Ensuring Continuity in Your Small IT Firm](https://urielwilson.com/mitigating-the-bus-factor-ensuring-continuity-in-your-small-it-firm/)
 - [A Comprehensive Guide to Removing MySQL from a Linux System](https://urielwilson.com/a-comprehensive-guide-to-removing-mysql-from-a-linux-system/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Unveiling the Past: Exploring Different Ways to Check Domain History](https://urielwilson.com/unveiling-the-past-exploring-different-ways-to-check-domain-history/)
 - [How to Rekey a Windows Certificate in GoDaddy](https://urielwilson.com/how-to-rekey-a-windows-certificate-in-godaddy/)
 - [Creating an Admin User in WordPress using a Custom Plugin](https://urielwilson.com/creating-an-admin-user-in-wordpress-using-a-custom-plugin/)
-- [Exploring wp_generate_password: Generating Secure Keys in WordPress](https://urielwilson.com/1672-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
