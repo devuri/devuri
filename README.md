@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Secure Connections with SSH and SSH Keys](https://urielwilson.com/simplifying-secure-connections-with-ssh-and-ssh-keys/)
 - [Using auth.json for Private Themes and Plugins on GitHub with Composer](https://urielwilson.com/using-auth-json-for-private-themes-and-plugins-on-github-with-composer/)
 - [Configuring SSH Login and Changing Login Messages in Ubuntu](https://urielwilson.com/configuring-ssh-login-and-changing-login-messages-in-ubuntu/)
 - [Break Glass Procedure: Break the Glass Credentials: Ensuring Emergency Access in Critical Scenarios](https://urielwilson.com/break-the-glass-credentials-ensuring-emergency-access-in-critical-scenarios/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [How to Create a Responsive Navbar with Dropdowns Using Pure JavaScript and Tailwind CSS](https://urielwilson.com/ow-to-create-a-responsive-navbar-with-dropdowns-using-pure-javascript-and-tailwind-css/)
 - [How to Disable Plugin Deactivation in WordPress](https://urielwilson.com/how-to-disable-plugin-deactivation-in-wordpress/)
 - [Unveiling the Past: Exploring Different Ways to Check Domain History](https://urielwilson.com/unveiling-the-past-exploring-different-ways-to-check-domain-history/)
-- [How to Rekey a Windows Certificate in GoDaddy](https://urielwilson.com/how-to-rekey-a-windows-certificate-in-godaddy/)
 <!-- BLOG-POST-LIST:END -->
 
 
