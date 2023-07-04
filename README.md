@@ -35,7 +35,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
 - [Zsh: The Powerful and User-Friendly Unix Shell](https://urielwilson.com/zsh-the-powerful-and-user-friendly-unix-shell/)
-- [Simplifying Secure Connections with SSH and SSH Keys](https://urielwilson.com/simplifying-secure-connections-with-ssh-and-ssh-keys/)
+- [Simplifying Secure Connections with OpenSSH and SSH Keys](https://urielwilson.com/simplifying-secure-connections-with-ssh-and-ssh-keys/)
 - [Using auth.json for Private Themes and Plugins on GitHub with Composer](https://urielwilson.com/using-auth-json-for-private-themes-and-plugins-on-github-with-composer/)
 - [Configuring SSH Login and Changing Login Messages in Ubuntu](https://urielwilson.com/configuring-ssh-login-and-changing-login-messages-in-ubuntu/)
 - [Break Glass Procedure: Break the Glass Credentials: Ensuring Emergency Access in Critical Scenarios](https://urielwilson.com/break-the-glass-credentials-ensuring-emergency-access-in-critical-scenarios/)
