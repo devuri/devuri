@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Zsh: The Powerful and User-Friendly Unix Shell](https://urielwilson.com/zsh-the-powerful-and-user-friendly-unix-shell/)
 - [Simplifying Secure Connections with SSH and SSH Keys](https://urielwilson.com/simplifying-secure-connections-with-ssh-and-ssh-keys/)
 - [Using auth.json for Private Themes and Plugins on GitHub with Composer](https://urielwilson.com/using-auth-json-for-private-themes-and-plugins-on-github-with-composer/)
 - [Configuring SSH Login and Changing Login Messages in Ubuntu](https://urielwilson.com/configuring-ssh-login-and-changing-login-messages-in-ubuntu/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Laravel Project Initialization Script](https://urielwilson.com/laravel-project-initialization-script/)
 - [How to Create a Responsive Navbar with Dropdowns Using Pure JavaScript and Tailwind CSS](https://urielwilson.com/ow-to-create-a-responsive-navbar-with-dropdowns-using-pure-javascript-and-tailwind-css/)
 - [How to Disable Plugin Deactivation in WordPress](https://urielwilson.com/how-to-disable-plugin-deactivation-in-wordpress/)
-- [Unveiling the Past: Exploring Different Ways to Check Domain History](https://urielwilson.com/unveiling-the-past-exploring-different-ways-to-check-domain-history/)
 <!-- BLOG-POST-LIST:END -->
 
 
