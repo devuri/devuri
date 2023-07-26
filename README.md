@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Enabling Code Coverage in PHPUnit using Xdebug and Composer](https://urielwilson.com/enabling-code-coverage-in-phpunit-using-xdebug-and-composer/)
 - [Secure Your Web Applications with CSRF Protection](https://urielwilson.com/secure-your-web-applications-with-csrf-protection/)
 - [A Guide to Securing GitHub with GPG Keys](https://urielwilson.com/a-guide-to-securing-github-with-gpg-keys/)
 - [Zsh: The Powerful and User-Friendly Unix Shell](https://urielwilson.com/zsh-the-powerful-and-user-friendly-unix-shell/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Break Glass Procedure: Break the Glass Credentials: Ensuring Emergency Access in Critical Scenarios](https://urielwilson.com/break-the-glass-credentials-ensuring-emergency-access-in-critical-scenarios/)
 - [Mitigating the Bus Factor: Ensuring Continuity in Your Small IT Firm](https://urielwilson.com/mitigating-the-bus-factor-ensuring-continuity-in-your-small-it-firm/)
 - [A Comprehensive Guide to Removing MySQL from a Linux System](https://urielwilson.com/a-comprehensive-guide-to-removing-mysql-from-a-linux-system/)
-- [Laravel Project Initialization Script](https://urielwilson.com/laravel-project-initialization-script/)
 <!-- BLOG-POST-LIST:END -->
 
 
