@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling Dark Patterns: Ensuring Ethical Subscription Experiences](https://urielwilson.com/unraveling-dark-patterns-ensuring-ethical-subscription-experiences/)
 - [Enabling Code Coverage in PHPUnit using Xdebug and Composer](https://urielwilson.com/enabling-code-coverage-in-phpunit-using-xdebug-and-composer/)
 - [Secure Your Web Applications with CSRF Protection](https://urielwilson.com/secure-your-web-applications-with-csrf-protection/)
 - [A Guide to Securing GitHub with GPG Keys](https://urielwilson.com/a-guide-to-securing-github-with-gpg-keys/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Configuring SSH Login and Changing Login Messages in Ubuntu](https://urielwilson.com/configuring-ssh-login-and-changing-login-messages-in-ubuntu/)
 - [Break Glass Procedure: Break the Glass Credentials: Ensuring Emergency Access in Critical Scenarios](https://urielwilson.com/break-the-glass-credentials-ensuring-emergency-access-in-critical-scenarios/)
 - [Mitigating the Bus Factor: Ensuring Continuity in Your Small IT Firm](https://urielwilson.com/mitigating-the-bus-factor-ensuring-continuity-in-your-small-it-firm/)
-- [A Comprehensive Guide to Removing MySQL from a Linux System](https://urielwilson.com/a-comprehensive-guide-to-removing-mysql-from-a-linux-system/)
 <!-- BLOG-POST-LIST:END -->
 
 
