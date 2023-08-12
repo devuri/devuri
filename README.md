@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [The Crucial Role of Mathematics in Computer Science Education](https://urielwilson.com/the-crucial-role-of-mathematics-in-computer-science-education/)
 - [Exploring the Laravel Eloquent ORM](https://urielwilson.com/exploring-the-laravel-eloquent-orm/)
 - [Unraveling Dark Patterns: Ensuring Ethical Subscription Experiences](https://urielwilson.com/unraveling-dark-patterns-ensuring-ethical-subscription-experiences/)
 - [Enabling Code Coverage in PHPUnit using Xdebug and Composer](https://urielwilson.com/enabling-code-coverage-in-phpunit-using-xdebug-and-composer/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Simplifying Secure Connections with OpenSSH and SSH Keys](https://urielwilson.com/simplifying-secure-connections-with-ssh-and-ssh-keys/)
 - [Using auth.json for Private Themes and Plugins on GitHub with Composer](https://urielwilson.com/using-auth-json-for-private-themes-and-plugins-on-github-with-composer/)
 - [Configuring SSH Login and Changing Login Messages in Ubuntu](https://urielwilson.com/configuring-ssh-login-and-changing-login-messages-in-ubuntu/)
-- [Break Glass Procedure: Break the Glass Credentials: Ensuring Emergency Access in Critical Scenarios](https://urielwilson.com/break-the-glass-credentials-ensuring-emergency-access-in-critical-scenarios/)
 <!-- BLOG-POST-LIST:END -->
 
 
