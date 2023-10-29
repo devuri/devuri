@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Achieving Engineering Excellence: The Role of OKRs in Engineering Management](https://urielwilson.com/achieving-engineering-excellence-the-role-of-okrs-in-engineering-management/)
 - [Getting Started with Tmux: A Comprehensive Tutorial](https://urielwilson.com/getting-started-with-tmux-a-comprehensive-tutorial/)
 - [A simple Guide to Disabling Caching with .htaccess](https://urielwilson.com/a-simple-guide-to-disabling-caching-with-htaccess/)
 - [The Crucial Role of Mathematics in Computer Science Education](https://urielwilson.com/the-crucial-role-of-mathematics-in-computer-science-education/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Secure Your Web Applications with CSRF Protection](https://urielwilson.com/secure-your-web-applications-with-csrf-protection/)
 - [A Guide to Securing GitHub with GPG Keys](https://urielwilson.com/a-guide-to-securing-github-with-gpg-keys/)
 - [Zsh: The Powerful and User-Friendly Unix Shell](https://urielwilson.com/zsh-the-powerful-and-user-friendly-unix-shell/)
-- [Simplifying Secure Connections with OpenSSH and SSH Keys](https://urielwilson.com/simplifying-secure-connections-with-ssh-and-ssh-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 
