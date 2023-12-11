@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Design patterns: common solutions to recurring problems in software design](https://urielwilson.com/design-patterns-common-solutions-to-recurring-problems-in-software-design/)
 - [Mastering Text Search with grep on Ubuntu](https://urielwilson.com/mastering-text-search-with-grep-on-ubuntu/)
 - [Achieving Engineering Excellence: The Role of OKRs in Engineering Management](https://urielwilson.com/achieving-engineering-excellence-the-role-of-okrs-in-engineering-management/)
 - [Getting Started with Tmux: A Comprehensive Tutorial](https://urielwilson.com/getting-started-with-tmux-a-comprehensive-tutorial/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Unraveling Dark Patterns: Ensuring Ethical Subscription Experiences](https://urielwilson.com/unraveling-dark-patterns-ensuring-ethical-subscription-experiences/)
 - [Enabling Code Coverage in PHPUnit using Xdebug and Composer](https://urielwilson.com/enabling-code-coverage-in-phpunit-using-xdebug-and-composer/)
 - [Secure Your Web Applications with CSRF Protection](https://urielwilson.com/secure-your-web-applications-with-csrf-protection/)
-- [A Guide to Securing GitHub with GPG Keys](https://urielwilson.com/a-guide-to-securing-github-with-gpg-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 
