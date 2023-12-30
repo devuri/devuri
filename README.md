@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing and Verifying Disk Space Utilization in Ubuntu](https://urielwilson.com/maximizing-and-verifying-disk-space-utilization-in-ubuntu/)
 - [Mastering SQL Search: Implementations in Websites and Web Applications](https://urielwilson.com/mastering-sql-search-implementations-in-websites-and-web-applications/)
 - [Design patterns: common solutions to recurring problems in software design](https://urielwilson.com/design-patterns-common-solutions-to-recurring-problems-in-software-design/)
 - [Mastering Text Search with grep on Ubuntu](https://urielwilson.com/mastering-text-search-with-grep-on-ubuntu/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [The Crucial Role of Mathematics in Computer Science Education](https://urielwilson.com/the-crucial-role-of-mathematics-in-computer-science-education/)
 - [Exploring the Laravel Eloquent ORM](https://urielwilson.com/exploring-the-laravel-eloquent-orm/)
 - [Unraveling Dark Patterns: Ensuring Ethical Subscription Experiences](https://urielwilson.com/unraveling-dark-patterns-ensuring-ethical-subscription-experiences/)
-- [Enabling Code Coverage in PHPUnit using Xdebug and Composer](https://urielwilson.com/enabling-code-coverage-in-phpunit-using-xdebug-and-composer/)
 <!-- BLOG-POST-LIST:END -->
 
 
