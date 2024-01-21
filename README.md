@@ -34,6 +34,8 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Disabling Full-Screen Mode in WordPress Block Editor](https://urielwilson.com/disabling-full-screen-mode-in-wordpress-block-editor/)
+- [Template Literals in JavaScript: A Modern Approach to String Manipulation](https://urielwilson.com/template-literals-in-javascript-a-modern-approach-to-string-manipulation/)
 - [How to Backup Data to Amazon S3 Using the AWS CLI](https://urielwilson.com/how-to-backup-data-to-amazon-s3-using-the-aws-cli/)
 - [API Development: A Comprehensive Guide](https://urielwilson.com/api-development-a-comprehensive-guide/)
 - [Maximizing and Verifying Disk Space Utilization in Ubuntu](https://urielwilson.com/maximizing-and-verifying-disk-space-utilization-in-ubuntu/)
@@ -42,8 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Mastering Text Search with grep on Ubuntu](https://urielwilson.com/mastering-text-search-with-grep-on-ubuntu/)
 - [Achieving Engineering Excellence: The Role of OKRs in Engineering Management](https://urielwilson.com/achieving-engineering-excellence-the-role-of-okrs-in-engineering-management/)
 - [Getting Started with Tmux: A Comprehensive Tutorial](https://urielwilson.com/getting-started-with-tmux-a-comprehensive-tutorial/)
-- [A simple Guide to Disabling Caching with .htaccess](https://urielwilson.com/a-simple-guide-to-disabling-caching-with-htaccess/)
-- [The Crucial Role of Mathematics in Computer Science Education](https://urielwilson.com/the-crucial-role-of-mathematics-in-computer-science-education/)
 <!-- BLOG-POST-LIST:END -->
 
 
