@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Role of Binary in Computer Science Education](https://urielwilson.com/understanding-the-role-of-binary-in-computer-science-education/)
 - [Benefits of Owning a Sports Motorcycle as a Software Engineer](https://urielwilson.com/the-surprising-benefits-of-owning-a-sports-motorcycle-as-a-software-engineer/)
 - [Unraveling the Mysteries of the Technical Design Document](https://urielwilson.com/unraveling-the-mysteries-of-the-technical-design-document/)
 - [Disabling Full-Screen Mode in WordPress Block Editor](https://urielwilson.com/disabling-full-screen-mode-in-wordpress-block-editor/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [Maximizing and Verifying Disk Space Utilization in Ubuntu](https://urielwilson.com/maximizing-and-verifying-disk-space-utilization-in-ubuntu/)
 - [Mastering SQL Search: Implementations in Websites and Web Applications](https://urielwilson.com/mastering-sql-search-implementations-in-websites-and-web-applications/)
 - [Design patterns: common solutions to recurring problems in software design](https://urielwilson.com/design-patterns-common-solutions-to-recurring-problems-in-software-design/)
-- [Mastering Text Search with grep on Ubuntu](https://urielwilson.com/mastering-text-search-with-grep-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 
