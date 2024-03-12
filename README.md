@@ -34,6 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [SOLID principles a foundational guideline for designing and implementing software systems](https://urielwilson.com/solid-principles-a-foundational-guideline-for-designing-and-implementing-software-systems/)
 - [Understanding the Role of Binary in Computer Science Education](https://urielwilson.com/understanding-the-role-of-binary-in-computer-science-education/)
 - [Benefits of Owning a Sports Motorcycle as a Software Engineer](https://urielwilson.com/the-surprising-benefits-of-owning-a-sports-motorcycle-as-a-software-engineer/)
 - [Unraveling the Mysteries of the Technical Design Document](https://urielwilson.com/unraveling-the-mysteries-of-the-technical-design-document/)
@@ -43,7 +44,6 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 - [API Development: A Comprehensive Guide](https://urielwilson.com/api-development-a-comprehensive-guide/)
 - [Maximizing and Verifying Disk Space Utilization in Ubuntu](https://urielwilson.com/maximizing-and-verifying-disk-space-utilization-in-ubuntu/)
 - [Mastering SQL Search: Implementations in Websites and Web Applications](https://urielwilson.com/mastering-sql-search-implementations-in-websites-and-web-applications/)
-- [Design patterns: common solutions to recurring problems in software design](https://urielwilson.com/design-patterns-common-solutions-to-recurring-problems-in-software-design/)
 <!-- BLOG-POST-LIST:END -->
 
 
