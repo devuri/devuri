@@ -34,16 +34,7 @@ I am [@urielsedge](https://twitter.com/urielsedge) on Twitter, Checkout out My [
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
-- [A simple PHP interface designed to provide a consistent structure for WordPress plugins](https://urielwilson.com/a-simple-php-interface-designed-to-provide-a-consistent-structure-for-wordpress-plugins/)
-- [SOLID principles a foundational guideline for designing and implementing software systems](https://urielwilson.com/solid-principles-a-foundational-guideline-for-designing-and-implementing-software-systems/)
-- [Understanding the Role of Binary in Computer Science Education](https://urielwilson.com/understanding-the-role-of-binary-in-computer-science-education/)
-- [Benefits of Owning a Sports Motorcycle as a Software Engineer](https://urielwilson.com/the-surprising-benefits-of-owning-a-sports-motorcycle-as-a-software-engineer/)
-- [Unraveling the Mysteries of the Technical Design Document](https://urielwilson.com/unraveling-the-mysteries-of-the-technical-design-document/)
-- [Disabling Full-Screen Mode in WordPress Block Editor](https://urielwilson.com/disabling-full-screen-mode-in-wordpress-block-editor/)
-- [Template Literals in JavaScript: A Modern Approach to String Manipulation](https://urielwilson.com/template-literals-in-javascript-a-modern-approach-to-string-manipulation/)
-- [How to Backup Data to Amazon S3 Using the AWS CLI](https://urielwilson.com/how-to-backup-data-to-amazon-s3-using-the-aws-cli/)
-- [API Development: A Comprehensive Guide](https://urielwilson.com/api-development-a-comprehensive-guide/)
-- [Maximizing and Verifying Disk Space Utilization in Ubuntu](https://urielwilson.com/maximizing-and-verifying-disk-space-utilization-in-ubuntu/)
+- [DigitalOcean and ServerPilot :: Building A WordPress SaaS Product](https://medium.com/@urielsedge/building-a-wordpress-saas-product-with-digital-ocean-and-serverpilot-fec1ea8e51cd?source=rss-e03f82c0a92f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
