@@ -34,7 +34,12 @@
 
 ### Packages
 
-#### General
+#### CI/CD
+1. **[Release Deployer](https://github.com/devuri/rdx-release-deployer-action)**
+2. **[Plugin Release Deploy](https://github.com/devuri/plugin-release-deploy-action)**
+3. **[Action Template](https://github.com/devuri/action-template)**
+
+#### PHP
 1. **[Config](https://packagist.org/packages/devuri/config)**
 2. **[Dot Access](https://packagist.org/packages/devuri/dot-access)**
 3. **[Encryption](https://packagist.org/packages/devuri/encryption)**
@@ -44,6 +49,8 @@
 7. **[Raydium](https://packagist.org/packages/devuri/raydium)**
 8. **[Secure Password](https://packagist.org/packages/devuri/secure-password)**
 9. **[UUID Generator](https://packagist.org/packages/devuri/uuid-generator)**
+10. **[WPFramework](https://packagist.org/packages/devuri/wpframework)**
+
 
 #### WordPress
 
@@ -63,7 +70,6 @@
 13. **[WP Env App](https://packagist.org/packages/devuri/wp-env-app)**
 14. **[WP Env Config](https://packagist.org/packages/devuri/wp-env-config)**
 15. **[WPenV Core](https://packagist.org/packages/devuri/wpenv-core)**
-16. **[WPFramework](https://packagist.org/packages/devuri/wpframework)**
 
 #### WordPress.org Plugins
 
