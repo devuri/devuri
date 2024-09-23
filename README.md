@@ -89,3 +89,4 @@
 14. **[Sim Social Feed](https://wordpress.org/plugins/sim-social-feed/)** - [GitHub Repository](https://github.com/devuri/sim-social-feed)
 15. **[Slim Slider](https://wordpress.org/plugins/slim-slider/)** - [GitHub Repository](https://github.com/devuri/slim-slider)
 16. **[WP Auto Updates](https://wordpress.org/plugins/wp-auto-updates/)** - [GitHub Repository](https://github.com/devuri/wp-auto-updates)
+17. **[System Info](https://wordpress.org/plugins/system-info/)** - [GitHub Repository](https://github.com/devuri/system-info/)
