@@ -15,6 +15,7 @@
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [PHP Firewall Middleware: A Practical Guide to Blocking Vulnerabilities](https://urielwilson.com/php-firewall-middleware-a-practical-guide-to-blocking-vulnerabilities/)
 - [How to Troubleshoot Docker Compose ‘ContainerConfig’ Errors](https://urielwilson.com/how-to-troubleshoot-docker-compose-containerconfig-errors/)
 - [Using nslookup for Reconnaissance in Cyber Security](https://urielwilson.com/using-nslookup-for-reconnaissance-in-cyber-security/)
 - [Deploying Laravel Projects with Deploy Keys and GitHub](https://urielwilson.com/deploying-laravel-projects-with-deploy-keys-and-github/)
@@ -24,7 +25,6 @@
 - [A simple PHP interface designed to provide a consistent structure for WordPress plugins](https://urielwilson.com/a-simple-php-interface-designed-to-provide-a-consistent-structure-for-wordpress-plugins/)
 - [SOLID principles a foundational guideline for designing and implementing software systems](https://urielwilson.com/solid-principles-a-foundational-guideline-for-designing-and-implementing-software-systems/)
 - [Understanding the Role of Binary in Computer Science Education](https://urielwilson.com/understanding-the-role-of-binary-in-computer-science-education/)
-- [Benefits of Owning a Sports Motorcycle as a Software Engineer](https://urielwilson.com/the-surprising-benefits-of-owning-a-sports-motorcycle-as-a-software-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 
