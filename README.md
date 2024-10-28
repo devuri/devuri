@@ -1,6 +1,3 @@
-#### Hi there
-
-![stats](https://github-readme-stats.vercel.app/api?username=devuri&show_icons=true&theme=radical)
 
 
 #### Connect with me:
