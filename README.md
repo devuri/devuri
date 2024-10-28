@@ -1,5 +1,8 @@
 #### Hi there
 
+![stats](https://github-readme-stats.vercel.app/api?username=devuri&show_icons=true&theme=radical)
+
+
 #### Connect with me:
 <p align="left">
 <a href="https://codepen.io/devuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="urielsedge" height="30" width="40" /></a><a href="https://twitter.com/urielsedge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urielsedge" height="30" width="40" /></a><a href="https://linkedin.com/in/urielwilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urielwilson" height="30" width="40" /></a><a href="https://stackoverflow.com/users/10496432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10496432" height="30" width="40" /></a>
