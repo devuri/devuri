@@ -13,7 +13,7 @@
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
-- [Why Class Constructors Should Avoid Side Effects](https://urielwilson.com/why-php-class-constructors-should-avoid-side-effects/)
+- [Why Class Constructors Should Avoid Side Effects](https://urielwilson.com/why-class-constructors-should-avoid-side-effects/)
 - [PHP Firewall Middleware: A Practical Guide to Blocking Vulnerabilities](https://urielwilson.com/php-firewall-middleware-a-practical-guide-to-blocking-vulnerabilities/)
 - [How to Troubleshoot Docker Compose ‘ContainerConfig’ Errors](https://urielwilson.com/how-to-troubleshoot-docker-compose-containerconfig-errors/)
 - [Using nslookup for Reconnaissance in Cyber Security](https://urielwilson.com/using-nslookup-for-reconnaissance-in-cyber-security/)
