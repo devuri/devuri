@@ -13,6 +13,7 @@
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Why Class Constructors Should Avoid Side Effects](https://urielwilson.com/why-php-class-constructors-should-avoid-side-effects/)
 - [PHP Firewall Middleware: A Practical Guide to Blocking Vulnerabilities](https://urielwilson.com/php-firewall-middleware-a-practical-guide-to-blocking-vulnerabilities/)
 - [How to Troubleshoot Docker Compose ‘ContainerConfig’ Errors](https://urielwilson.com/how-to-troubleshoot-docker-compose-containerconfig-errors/)
 - [Using nslookup for Reconnaissance in Cyber Security](https://urielwilson.com/using-nslookup-for-reconnaissance-in-cyber-security/)
@@ -22,7 +23,6 @@
 - [WordPress Expertise: The Case for Distinction Between Developers and Engineers](https://urielwilson.com/wordpress-expertise-the-case-for-distinction-between-developers-and-engineers/)
 - [A simple PHP interface designed to provide a consistent structure for WordPress plugins](https://urielwilson.com/a-simple-php-interface-designed-to-provide-a-consistent-structure-for-wordpress-plugins/)
 - [SOLID principles a foundational guideline for designing and implementing software systems](https://urielwilson.com/solid-principles-a-foundational-guideline-for-designing-and-implementing-software-systems/)
-- [Understanding the Role of Binary in Computer Science Education](https://urielwilson.com/understanding-the-role-of-binary-in-computer-science-education/)
 <!-- BLOG-POST-LIST:END -->
 
 
