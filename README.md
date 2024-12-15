@@ -13,16 +13,7 @@
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
-- [Why Class Constructors Should Avoid Side Effects](https://urielwilson.com/why-class-constructors-should-avoid-side-effects/)
-- [PHP Firewall Middleware: A Practical Guide to Blocking Vulnerabilities](https://urielwilson.com/php-firewall-middleware-a-practical-guide-to-blocking-vulnerabilities/)
-- [How to Troubleshoot Docker Compose ‘ContainerConfig’ Errors](https://urielwilson.com/how-to-troubleshoot-docker-compose-containerconfig-errors/)
-- [Using nslookup for Reconnaissance in Cyber Security](https://urielwilson.com/using-nslookup-for-reconnaissance-in-cyber-security/)
-- [Deploying Laravel Projects with Deploy Keys and GitHub](https://urielwilson.com/deploying-laravel-projects-with-deploy-keys-and-github/)
-- [Git Stash: A Comprehensive Guide](https://urielwilson.com/git-stash/)
-- [Simplicity in PHP Constructors: Why Less Is More](https://urielwilson.com/simplicity-in-php-constructors-why-less-is-more/)
-- [WordPress Expertise: The Case for Distinction Between Developers and Engineers](https://urielwilson.com/wordpress-expertise-the-case-for-distinction-between-developers-and-engineers/)
-- [A simple PHP interface designed to provide a consistent structure for WordPress plugins](https://urielwilson.com/a-simple-php-interface-designed-to-provide-a-consistent-structure-for-wordpress-plugins/)
-- [SOLID principles a foundational guideline for designing and implementing software systems](https://urielwilson.com/solid-principles-a-foundational-guideline-for-designing-and-implementing-software-systems/)
+- [DigitalOcean and ServerPilot :: Building A WordPress SaaS Product](https://medium.com/@urielsedge/building-a-wordpress-saas-product-with-digital-ocean-and-serverpilot-fec1ea8e51cd?source=rss-e03f82c0a92f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
