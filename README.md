@@ -13,6 +13,7 @@
 
 #### Blog:
 <!-- BLOG-POST-LIST:START -->
+- [Install plugins with AJAX using the built in  WordPress AJAX API](https://urielwilson.com/install-plugins-with-ajax-using-the-built-in-wordpress-ajax-api/)
 - [Nano Cheat Sheet](https://urielwilson.com/nano-cheat-sheet/)
 - [Vim Cheat Sheet &lpar;with Vi Exceptions&rpar;](https://urielwilson.com/vim-cheat-sheet-with-vi-exceptions/)
 - [Why Class Constructors Should Avoid Side Effects](https://urielwilson.com/why-class-constructors-should-avoid-side-effects/)
@@ -22,7 +23,6 @@
 - [Deploying Laravel Projects with Deploy Keys and GitHub](https://urielwilson.com/deploying-laravel-projects-with-deploy-keys-and-github/)
 - [Git Stash: A Comprehensive Guide](https://urielwilson.com/git-stash/)
 - [Simplicity in PHP Constructors: Why Less Is More](https://urielwilson.com/simplicity-in-php-constructors-why-less-is-more/)
-- [WordPress Expertise: The Case for Distinction Between Developers and Engineers](https://urielwilson.com/wordpress-expertise-the-case-for-distinction-between-developers-and-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 
